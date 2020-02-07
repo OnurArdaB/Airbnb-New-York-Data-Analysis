@@ -27,4 +27,5 @@ You can also view the project via this link: https://colab.research.google.com/d
 Onur Arda Bodur - Senior Computer Science and Engineering Student in Sabancı University
 
 [Student Mail Address](mailto:onurarda@sabanciuniv.edu)
+
 [Personal Mail Address](mailto:onurarda@sabanciuniv.edu)
